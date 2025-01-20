@@ -1,3 +1,7 @@
+I've had a Tuesday night "guys night" for over a year, which means they've eaten enough of my beef and drunken enough of my beer that they FUCKING OWE ME.
+
+ANd I shall collect by making them learn some sea shanties, so we can all go to the RenFair together in two months and sing for tips.
+
 # Songs
 
 * Bones in the Ocean
