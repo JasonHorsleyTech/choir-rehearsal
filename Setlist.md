@@ -26,9 +26,9 @@
   - [X] Lyrics
   - [X] Cover
   - [ ] Printed
-- [ ] Bones in the Ocean
-  - [ ] Lyrics
-  - [ ] Cover
+- [X] Bones in the Ocean
+  - [X] Lyrics
+  - [X] Cover
   - [ ] Printed
 - [ ] Santiana
   - [ ] Lyrics
