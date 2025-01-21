@@ -26,39 +26,42 @@ ANd I shall collect by making them learn some sea shanties, so we can all go to 
   - [X] Sheet music
   - [-] Info            (No historical context, not really)
   - [X] Cover photo
-  - [ ] Printed
+  - [X] Print
 
-- [-] Byker Hill
+- [X] Byker Hill
   - [X] Sheet music
   - [X] Info
   - [X] Cover photo
-  - [ ] Printed
+  - [X] Print
 
-- [ ] Haul away joe
+- [-] Haul away joe
   - [ ] Sheet music
   - [X] Info
   - [X] Cover photo
-  - [ ] Printed
+  - [ ] Print
 
-- [ ] My mother told me
-  - [ ] Sheet music
-  - [X] Info
-  - [X] Cover photo
-  - [ ] Printed
-
-- [ ] Santiana
-  - [ ] Sheet music
-  - [X] Info
-  - [X] Cover photo
-  - [ ] Printed
-
-- [-] Wellerman
+- [X] My mother told me
   - [X] Sheet music
   - [X] Info
   - [X] Cover photo
-  - [ ] Printed
+  - [X] Print
+
+- [-] Santiana
+  - [ ] Sheet music
+  - [X] Info
+  - [X] Cover photo
+  - [ ] Print
+
+- [X] Wellerman
+  - [X] Sheet music
+  - [X] Info
+  - [X] Cover photo
+  - [X] Print
 
 ## Maybes
 
 * [Hoist the Colours](https://www.youtube.com/watch?v=-7LnKnDg8TI) 
   - From Pirates of the stupid fucking Caribean :| but it slaps.
+* Drunken Sailer
+* Old shanty with verses swapped for modern events
+* 
